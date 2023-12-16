@@ -16,7 +16,7 @@ Clone the repo
 ```bash
 git clone https://github.com/constancafonseca/asa_proj2_tests.git
 ```
-Provide the file [config.txt](config.txt) with the path to your source code.
+Provide the file [config.text](config.text) with the path to your source code.
 
 Followed by
 ```bash
