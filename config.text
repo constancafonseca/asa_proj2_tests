@@ -4,4 +4,4 @@
 #################################################
 
 # Path to the project source file
-SOURCE=/Users/constancafonseca/Desktop/ASA/ASA/projeto2/file.cpp
+SOURCE=../project/file.cpp
