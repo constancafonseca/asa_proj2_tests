@@ -24,6 +24,7 @@ make
 ```
 You can also run a specific test or a group of tests. But you should run make clean first. E.g:
 ```bash
-make clean tests/1.in tests/1.in
+make clean 
+make tests/1.in tests/2.in
 ```
 You can then check out the respective output, on the same folder with the extension `.outhyp` and the diff `.diff`.
